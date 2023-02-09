@@ -1,2 +1,2 @@
 # SCA-Test
-Test Repo for SCA vulnerabilities 1
+Test Repo for SCA vulnerabilities 1 2
