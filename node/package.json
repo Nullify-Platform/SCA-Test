@@ -27,7 +27,8 @@
     "react-scripts": "5.0.0",
     "recharts": "^2.1.9",
     "three": "0.124.0",
-    "use-sound": "2.0.1"
+    "use-sound": "2.0.1",
+    "lodash": "^4.17.20"
   },
   "devDependencies": {
     "@types/d3": "^7.1.0",
